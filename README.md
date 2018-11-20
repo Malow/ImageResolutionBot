@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to ImageResolutionBots Page
 
-You can use the [editor on GitHub](https://github.com/Malow/ImageResolutionBot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a reddit-bot who checks the image resolution of an image linked to see if it correspends with the resolution stated in the title. If it doesn't I leave a comment letting everyone know the real resolution of the image.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to figure out the image resolution of an image
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<details><summary>Using Chrome/Firefox on Desktop</summary>
+<p>
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Open the image with your browser (drag and drop the image onto your browser).
+2. Check the name of the tab of your browser (move your cursor and hold it over the tab at the top).
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Malow/ImageResolutionBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</p>
+</details>
