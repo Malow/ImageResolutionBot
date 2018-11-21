@@ -24,3 +24,7 @@ I'm a reddit-bot who checks the image resolution of an image linked to see if it
 
 </p>
 </details>
+
+### How to edit the title of your post
+
+Sadly you can't edit titles of posts. Either leave it as it is, or delete the submission and create a new submission with the correct title.
